@@ -1,2 +1,3 @@
 # ashezon.github.io
-A website to solve the problem of lack of connection between businesses and customers
+A website(prototype) to solve the problem of lack of connection between businesses and customers
+### Ashesi D:Lab Hackathon '22
